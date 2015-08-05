@@ -1,7 +1,7 @@
 {
-  "name": "generator-ionic",
+  "name": "generator-ionic-custom",
   "version": "0.7.3",
-  "description": "A generator for the Ionic Framework",
+  "description": "A customized generator for the Ionic Framework",
   "keywords": [
     "yeoman-generator",
     "ionic",
